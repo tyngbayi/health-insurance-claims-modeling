@@ -1,0 +1,6 @@
+## install one by one using conda install
+lightgbm
+Xgboost
+torch
+torchvision
+torchaudio
